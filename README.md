@@ -25,7 +25,9 @@ The following points were the objective of the project
 [trees.py](trees.py) contains decision tree model and random forest model and Knn model  
 [smote_lstm.py](smote_lstm.py) contains smote based lstm model  
 [Lda_qda.py](Lda_Qda.py) containg the models lda and Qda  
+[stacking.py](stacking.py) contains the models basic SVM,logistic models 
 [requirements.txt](requirements.txt) contains the requirements
+
 
 
 # Run
