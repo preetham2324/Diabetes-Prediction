@@ -29,4 +29,8 @@ The following points were the objective of the project
 make sure to have all [requirements.txt](requirements.txt) installed  
 run like any other python file  
 
-createElement("button"); button. className = "button-copy-code"; button. innerHTML = copyIcon; block.
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
