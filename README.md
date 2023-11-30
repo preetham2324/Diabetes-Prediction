@@ -12,14 +12,21 @@ workers of the medical field.
 kaggle pima india dataset  
 [diabetes.csv](diabetes.csv)
 
+# Objective
+The following points were the objective of the project 
+  *  Descriptive Analysis
+  *  Data Preprocessing
+  *  Outlier Detection
+  *  Model Evaluation
+    
 # Files
 [Booster.py](Booster.py) contains 2 ensemble models adaboost and xgboost  
 [trees.py](trees.py) contains decision tree model and random forest model and Knn model  
 [smote_lstm.py](smote_lstm.py) contains smote based lstm model
 
 # Run
-make sure to have all [requirements.txt](requirements.txt) installed
+make sure to have all [requirements.txt](requirements.txt) installed  
 run like any other python file 
-'''
+
 python3 File_name.py
 '''
