@@ -30,7 +30,6 @@ make sure to have all [requirements.txt](requirements.txt) installed
 run like any other python file  
 
 ```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
+     python3 file_name.py
 ```
+gives the accuracy of models in files with basic preprocessing(handled missing values) and with IQR and Z_score methods and their confusion matrix
