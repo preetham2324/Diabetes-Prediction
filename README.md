@@ -12,6 +12,6 @@ workers of the medical field.
 kaggle pima india dataset
 
 # Files
-Booster.py contains 2 ensemble models adaboost and xgboost__
-tress.py contains decision tree model and random forest model and Knn model__
+Booster.py contains 2 ensemble models adaboost and xgboost< br/>
+tress.py contains decision tree model and random forest model and Knn model< br/>
 smote_lstm.py contains smote based lstm model
