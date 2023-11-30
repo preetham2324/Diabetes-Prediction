@@ -9,12 +9,13 @@ of machine learning in healthcare and predicive analysis, and can act as a secon
 workers of the medical field.
 
 # Dataset
-kaggle pima india dataset
+kaggle pima india dataset  
+[diabetes.csv](diabetes.csv)
 
 # Files
 [Booster.py](Booster.py) contains 2 ensemble models adaboost and xgboost  
-tress.py contains decision tree model and random forest model and Knn model  
-smote_lstm.py contains smote based lstm model
+[trees.py](trees.py) contains decision tree model and random forest model and Knn model  
+[smote_lstm.py](smote_lstm.py) contains smote based lstm model
 
 # Run
  
