@@ -18,4 +18,8 @@ kaggle pima india dataset
 [smote_lstm.py](smote_lstm.py) contains smote based lstm model
 
 # Run
- 
+make sure to have all [requirements.txt](requirements.txt) installed
+run like any other python file 
+'''
+python3 File_name.py
+'''
