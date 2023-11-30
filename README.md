@@ -27,7 +27,6 @@ The following points were the objective of the project
 
 # Run
 make sure to have all [requirements.txt](requirements.txt) installed  
-run like any other python file 
+run like any other python file  
 
-python3 File_name.py
-'''
+createElement("button"); button. className = "button-copy-code"; button. innerHTML = copyIcon; block.
