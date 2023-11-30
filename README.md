@@ -18,6 +18,7 @@ The following points were the objective of the project
   *  Data Preprocessing
   *  Outlier Detection
   *  Model Evaluation
+    to find the best model
     
 # Files
 [Booster.py](Booster.py) contains 2 ensemble models adaboost and xgboost  
